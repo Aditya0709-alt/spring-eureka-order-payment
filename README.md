@@ -2,8 +2,10 @@
 
 <img width="1392" alt="Screenshot 2023-08-17 at 12 42 18 AM" src="https://github.com/Aditya0709-alt/stegano-master/assets/77115883/865055c9-4612-4626-8379-6a349af0d58d">
 
-URL: http://localhost:9192/order/bookOrder
+```
+URL: "http://localhost:9192/order/bookOrder"
 HTTP Method: POST
+```
 
 ```json
 {
@@ -35,8 +37,10 @@ Response
 }
 ```
 
-URL : http://localhost:9191/payment/26
+```
+URL : "http://localhost:9191/payment/26"
 HTTP Method : GET
+```
 
 Response
 
