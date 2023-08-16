@@ -5,6 +5,7 @@
 ```
 URL: "http://localhost:9192/order/bookOrder"
 HTTP Method: POST
+Status: 200 OK
 ```
 
 ```json
@@ -40,6 +41,7 @@ Response
 ```
 URL : "http://localhost:9191/payment/26"
 HTTP Method : GET
+Status: 200 OK
 ```
 
 Response
