@@ -1,6 +1,8 @@
 #### A simple implementation of the API gateway pattern where two microservices communicate
 
-<img width="1392" alt="Screenshot 2023-08-17 at 12 42 18 AM" src="https://github.com/Aditya0709-alt/stegano-master/assets/77115883/865055c9-4612-4626-8379-6a349af0d58d">
+<img width="1212" alt="Screenshot 2023-08-17 at 12 56 22 AM" src="https://github.com/Aditya0709-alt/spring-eureka-order-payment/assets/77115883/428dd736-b329-4cd3-8d6c-1ea5749fd402">
+
+
 
 ```
 URL: "http://localhost:9192/order/bookOrder"
